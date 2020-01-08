@@ -1,0 +1,10 @@
+{
+  "Id": "Silentbaws.XLSkinEditor",
+  "DisplayName": "Silents Skin Editor Mod",
+  "Author": "Silentbaws",
+  "Version": "0.2.2",
+  "ManagerVersion": "0.17.0",
+  "Requirements": [ "blendermf.XLShredMenu-0.0.4" ],
+  "AssemblyName": "XLSkinEditor.dll",
+  "EntryMethod": "XLSkinEditor.Main.Load"
+}
